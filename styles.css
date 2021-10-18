@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    background: linear-gradient(180.43deg, rgba(0,0,0,0.60) 0%, rgba(0,0,0,0.80)),url(/image/joshua-sortino-f3uWi9G-lus-unsplash.jpg);
+    background: linear-gradient(180.43deg, rgba(0,0,0,0.60) 0%, rgba(0,0,0,0.80)),url(image/joshua-sortino-f3uWi9G-lus-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center center;
@@ -89,8 +89,8 @@ span{
     flex-shrink: 1;
 }
 .industrial-1 img{
-    height: 500px;
-    width: 795px;
+    height: 530px;
+    width: 790px;
     margin: 0;
 }
 .industrial-2{
@@ -99,8 +99,8 @@ span{
     flex-shrink: 1;
     background-color: #fff;
     color: #000;
-    height: 500px;
-    padding: 10px 0 0 30px;
+    height: 530px;
+    padding: 10px 0 0 10px;
 }
 .industrial-2 h1{
     font-size: 40px;
@@ -309,7 +309,7 @@ span{
     border: 1px solid #22d0fc;
     border-radius: 5px;
     font-size: 15px;
-    padding: 10px 67px;
+    padding: 10px 60px;
 }
 #white-link:hover{
     background-color: #807e7e;
